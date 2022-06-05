@@ -1,6 +1,6 @@
 {
   "name": "@qrac/svgstore",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Combines mulitple svg files into one.",
   "scripts": {
     "lint": "npx eslint --fix \"{src,test}/**/*.js\" && npx prettier --write \"{src,test}/**/*.js\"",
